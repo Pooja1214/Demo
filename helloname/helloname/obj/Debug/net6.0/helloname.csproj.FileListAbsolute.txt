@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\bin\Debug\net6.0\helloname.exe
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\bin\Debug\net6.0\helloname.deps.json
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\bin\Debug\net6.0\helloname.runtimeconfig.json
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\bin\Debug\net6.0\helloname.dll
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\bin\Debug\net6.0\helloname.pdb
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.AssemblyInfo.cs
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.dll
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\refint\helloname.dll
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.pdb
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\helloname.genruntimeconfig.cache
+C:\Users\admin\Documents\Pooja_net\helloname\helloname\obj\Debug\net6.0\ref\helloname.dll
